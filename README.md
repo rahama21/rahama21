@@ -3,7 +3,7 @@
 ###   Hello🙋‍♀️,This is Rahama Trisha
 #### I’m interested in software testing and love to generate new ideas about writing test cases.
 
-### Skills: JAVA/JS/NODEJS/MYSQL/MANGODB/CYPRRSS/SELENIUM/POSTMAN/JMETER/JIRA
+### Skills: JAVA/JS/NODEJS/MYSQL/MANGODB/CYPRESS/SELENIUM/POSTMAN/JMETER/JIRA
 - 👩‍🎓 I'm currently in the training in **Software Quality Assurance.**
 
 - 📓 I'm learning **Web Automation, Cypress.**
