@@ -3,7 +3,7 @@
 
  
 <h2 align="center">Hi🙋‍♀️,This is Rahama Trisha.</h2>
-<h3 align="center">I am interested in software testing and how it works. Love generating new ideas for writing test cases</h3>
+<h3 align="center">I am interested in software testing and how it works. Love generating new ideas for writing test cases.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rahama21&label=Profile%20views&color=0e75b6&style=flat" alt="rahama21" /> </p>
 
