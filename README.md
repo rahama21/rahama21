@@ -1,4 +1,6 @@
 ###  About me 🎈
+![images](https://user-images.githubusercontent.com/32101980/199504912-710646fe-490c-430a-8fff-bb9929fa00a9.png)
+
  
 <h1 align="center">Hi🙋‍♀️,This is Rahama Trisha.</h1>
 <h3 align="center">I am interested in software testing and how it works. Love generating new ideas for writing test cases</h3>
