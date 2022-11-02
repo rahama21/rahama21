@@ -3,7 +3,7 @@
 ###   Hello🙋‍♀️,This is Rahama Trisha
 #### I’m interested in software testing and love to generate new ideas about writing test cases.
 
-Skills: JAVA/JS/NODEJS/MYSQL/MANGODB/CYPRRSS/SELENIUM/POSTMAN/JMETER/JIRA
+### Skills: JAVA/JS/NODEJS/MYSQL/MANGODB/CYPRRSS/SELENIUM/POSTMAN/JMETER/JIRA
 - 👩‍🎓 I'm currently in the training in **Software Quality Assurance.**
 
 - 📓 I'm learning **Web Automation, Cypress.**
@@ -16,7 +16,7 @@ Skills: JAVA/JS/NODEJS/MYSQL/MANGODB/CYPRRSS/SELENIUM/POSTMAN/JMETER/JIRA
 
 
 
-
+#### Social
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/rahama22)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in//rahamatrisha2206/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg' alt='facebook' height='40'>](https://www.facebook.com/ rahama trisa)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg' alt='instagram' height='40'>](https://www.instagram.com/rahamatrisha/)  
 
 <a href='https://archiveprogram.github.com/'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/acbadge.gif' width='40' height='40'></a> 
