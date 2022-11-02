@@ -1,6 +1,6 @@
 # About me 🎈
-![images](https://user-images.githubusercontent.com/32101980/199504912-710646fe-490c-430a-8fff-bb9929fa00a9.png)
-### Hi there 👋, Hello🙋‍♀️,This is Rahama Trisha
+! [images](https://user-images.githubusercontent.com/32101980/199504912-710646fe-490c-430a-8fff-bb9929fa00a9.png)
+###   Hello🙋‍♀️,This is Rahama Trisha
 #### I’m interested in software testing and love to generate new ideas about writing test cases.
 
 Skills: JAVA/JS/NODEJS/MYSQL/MANGODB/CYPRRSS/SELENIUM/POSTMAN/JMETER/JIRA
