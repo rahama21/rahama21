@@ -1,4 +1,3 @@
-About me 🎈
 [![MasterHead](https://raw.githubusercontent.com/adi1090x/files/master/dynamic-wallpaper/island.gif)]
 <h1 align="center">Hi🙋‍♀️,This is Rahama Trisha.</h1>
 <h3 align="center">I am interested in software testing and how it works. Love to generate new ideas for software testing Love Love generating new ideas for writing test cases</h3>
