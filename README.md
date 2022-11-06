@@ -1,7 +1,7 @@
 [![MasterHead](https://raw.githubusercontent.com/adi1090x/files/master/dynamic-wallpaper/island.gif)]
 <h1 align="center">Hi🙋‍♀️,This is Rahama Trisha.</h1>
-<h3 align="center">I am interested in software testing and how it works. Love to generate new ideas for software testing. 
-/h3>
+<h3 align="center">I am interested in software testing and how it works. Love to generate new ideas for software testing /h3>
+
 
 <img align="right" alt="coding" width="400" src="https://cdn.dribbble.com/users/906441/screenshots/6364613/walkcyclevector24_dribbble.gif">
 
@@ -34,4 +34,3 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=rahama21&show_icons=true&locale=en" alt="rahama21" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=rahama21&" alt="rahama21" /></p>
-  
