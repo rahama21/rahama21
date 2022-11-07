@@ -2,16 +2,31 @@
 
 ![github_cover_banner](https://64.media.tumblr.com/c5543874b9cbe98da1d20945a45e989b/tumblr_o5a5r9Z9O71tvppquo1_r1_1280.gifv)
 
-<p align:"center" style="text-align: justify; margin: 0 50px; font-size: 17px;" >
-  I am interested in Software testing and how it works. Love to generate new ideas for software testing.
-<br>
-<br>
-<div align="center">
+<h1 align="center">Hi🙋‍♀️,This is Rahama Trisha.</h1>
+<h3 align="center">I am interested in software testing and how it works. Love to generate new ideas for software testing.</h3>
+<img align="right" alt="coding" width="400" src="https://cdn.dribbble.com/users/906441/screenshots/6364613/walkcyclevector24_dribbble.gif">
 
-[Email Me](rahama.trisha61@gmail.com)
-</div>
-</p>    
-<br>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=rahama21&label=Profile%20views&color=0e75b6&style=flat" alt="rahama21" /> </p>
+
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=rahama21" alt="rahama21" /></a> </p>
+
+- 👩‍🎓 I'm currently in the training in **Software Quality Assurance.**
+
+- 📓 I'm learning **Web Automation, Cypress.**
+
+- 👩‍💼 I’m looking to collaborate on **Github**
+
+- 🗨 Ask me about **Manual testing, Performance testing**
+
+- 📬 How to reach me **rahama.trisha61@gmail.com**
+
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://linkedin.com/in//rahamatrisha2206" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="/rahamatrisha2206" height="30" width="40" /></a>
+<a href="https://fb.com//rahama.trisa" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="/rahama.trisa" height="30" width="40" /></a>
+<a href="https://instagram.com/rahamatrisha" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="rahamatrisha" height="30" width="40" /></a>
+</p>
+
 <!-- Languages and Tools -->
 
 <h2 style="color: #44AEFB">⚙️ Languages and Tools</h2>
@@ -57,58 +72,8 @@
 <br>
 
 
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=rahama21&show_icons=true&locale=en&layout=compact" alt="rahama21" /></p>
 
-<!-- Statistics -->
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=rahama21&show_icons=true&locale=en" alt="rahama21" /></p>
 
-<h2 style="color: #44AEFB">📊 Statistics</h2>
-
-![stats_banner](https://user-images.githubusercontent.com/78341798/194534778-d662496c-ae00-4e8d-ae9b-b90912054e7f.gif)
-
-<!-- Begin Stats Cards -->
-<!-- Resources:  -->
-<!-- Github & Languages Stats: https://github.com/rahama21/github-readme-stats --> 
-<!-- Streak Stats: https://github.com/denvercoder1/github-readme-streak-stats -->
-<!-- Change the value after ?username= to your GitHub username. -->
-<div class="stats" align="center">
-
-![Programming Gym's GitHub Stats](https://github-readme-stats.vercel.app/api?username=ProgrammingGym&hide=stars&count_private=true&show_icons=true&theme=algolia&border_radius=20)
-
-![GitHub Streak](https://streak-stats.demolab.com?user=ProgrammingGym&count_private=true&theme=algolia&border_radius=20)
-
-![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ProgrammingGym&layout=compact&show_icons=true&theme=algolia&border_radius=20)
-</div>
-<!--  End Stats Cards -->
-
----
-<!-- Begin Footer -->
-<!-- Icons Resources -->
-<!-- https://devicon.dev/ -->
-<div class="footer" align="center" style="margin:15px;">
-    <a href="https://www.youtube.com/channel/UCq1qtlU3urNPLd5yIwhht1w" target="_blank">
-        <img  style="margin:0 10px 10px 0;" src="https://user-images.githubusercontent.com/78341798/194531650-698ef1b1-9cbd-4b4f-96ef-5a2ec4b5d7e6.svg" alt="youtube" width="40px"/>
-    </a>
-    <a href="https://programming-gym.blogspot.com/" target="_blank">
-        <img style="margin:0 10px 10px 0;" src="https://user-images.githubusercontent.com/78341798/194531458-b5dfeb1b-bad5-4dfa-909a-2e402262db9a.svg" alt="blogger" width="40px"/>
-    </a>
-    <a href="mailto:gym4programming@gmail.com" target="_blank">
-        <img style="margin:0 10px 10px 0;" src="https://user-images.githubusercontent.com/78341798/194531383-ddb2b774-5bb9-491c-b601-4a4a7d9792fb.svg" alt="gmail" width="40px"/>
-    </a>
-</div>
-<!-- End Footer -->
-
-<!-- 
-🔗 Links 🔗
-
-
-- Github & Languages Stats Cards:
-https://github.com/anuraghazra/github...
-- Streak Stats Card:
-https://github.com/denvercoder1/githu...
-
-- SVG Icons Resource1:
-https://devicon.dev/
-- SVG Icons Resource2:
-https://cdn.jsdelivr.net/npm/simple-i...
-- SVG Icons Resource3:
-https://www.svgrepo.com/
--->
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=rahama21&" alt="rahama21" /></p>
