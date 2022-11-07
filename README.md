@@ -70,6 +70,18 @@
 </div>
 <br>
 <br>
+<!-- Statistics -->
+
+<h2 style="color: #44AEFB">📊 Statistics</h2>
+
+![stats_banner](https://user-images.githubusercontent.com/78341798/194534778-d662496c-ae00-4e8d-ae9b-b90912054e7f.gif)
+
+<!-- Begin Stats Cards -->
+<!-- Resources:  -->
+<!-- Github & Languages Stats: https://github.com/rahama21/github-readme-stats --> 
+<!-- Streak Stats: https://github.com/denvercoder1/github-readme-streak-stats -->
+<!-- Change the value after ?username= to your GitHub username. -->
+<div class="stats" align="center">
 
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=rahama21&show_icons=true&locale=en&layout=compact" alt="rahama21" /></p>
