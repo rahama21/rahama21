@@ -82,13 +82,7 @@
 <!-- Streak Stats: https://github.com/denvercoder1/github-readme-streak-stats -->
 <!-- Change the value after ?username= to your GitHub username. -->
 <div class="stats" align="center">
-    ![Programming Gym's GitHub Stats](https://github-readme-stats.vercel.app/api?username=ProgrammingGym&hide=stars&count_private=true&show_icons=true&theme=algolia&border_radius=20)
-
-![GitHub Streak](https://streak-stats.demolab.com?user=ProgrammingGym&count_private=true&theme=algolia&border_radius=20)
-
-![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ProgrammingGym&layout=compact&show_icons=true&theme=algolia&border_radius=20)
-</div>
-<!--  End Stats Cards -->
+    
 
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=rahama21&show_icons=true&locale=en&layout=compact" alt="rahama21" /></p>
