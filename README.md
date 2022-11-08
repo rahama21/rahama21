@@ -21,6 +21,8 @@
 - 📬 How to reach me **rahama.trisha61@gmail.com**
 
 <!-- Social -->
+
+<img align="center" alt="coding" width="400" src="https://cdn.dribbble.com/users/1842274/screenshots/6605654/social_media.gif ">
 <h2 style="color: #44AEFB">🔗 Social</h2>
 
 
