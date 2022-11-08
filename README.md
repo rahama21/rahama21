@@ -22,7 +22,8 @@
 
 <!-- Social -->
 
-<img align="center" alt="coding" width="400" src="https://cdn.dribbble.com/users/1842274/screenshots/6605654/social_media.gif ">
+![social_media](https://user-images.githubusercontent.com/32101980/200478146-dde401da-bf1c-4e9d-bf9a-60274a2f055c.gif)
+
 <h2 style="color: #44AEFB">🔗 Social</h2>
 
 
