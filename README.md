@@ -1,10 +1,9 @@
-<h1 style="color: #44AEFB;"🏻‍💻 </h1>
 
 ![github_cover_banner](https://64.media.tumblr.com/c5543874b9cbe98da1d20945a45e989b/tumblr_o5a5r9Z9O71tvppquo1_r1_1280.gifv)
 
 <h1 align="center">Hi🙋‍♀️,This is Rahama Trisha.</h1>
 <h3 align="center">I am interested in software testing and how it works. Love to generate new ideas for software testing.</h3>
-<img align="right" alt="coding" width="400" src="https://cdn.dribbble.com/users/906441/screenshots/6364613/walkcyclevector24_dribbble.gif">
+<img align="right" alt="coding" width="200" src="https://cdn.dribbble.com/users/906441/screenshots/6364613/walkcyclevector24_dribbble.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rahama21&label=Profile%20views&color=0e75b6&style=flat" alt="rahama21" /> </p>
 
