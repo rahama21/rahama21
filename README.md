@@ -22,8 +22,7 @@
 <!-- Social -->
 <h2 style="color: #44AEFB"> 🔗 Social </h2>
 
-
-<img align="right" alt="coding" width="200" src="https://user-images.githubusercontent.com/32101980/200478146-dde401da-bf1c-4e9d-bf9a-60274a2f055c.gif"
+<img align="center" alt="coding" width="200" src="https://user-images.githubusercontent.com/32101980/200478146-dde401da-bf1c-4e9d-bf9a-60274a2f055c.gif"
 
 
 
