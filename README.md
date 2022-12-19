@@ -1,5 +1,5 @@
 
-![github_cover_banner](https://media1.giphy.com/media/WQqYj9ToV10g49Ma1h/giphy.gif?cid=6c09b952c6ef035cad6080c1d4b3d0809aac8645f0c0acc9&rid=giphy.gif&ct=g)
+![github_cover_banner](https://media0.giphy.com/media/UneG0XGqIRWDaK6UdN/200w.gif?cid=82a1493b10u1t2uy6x6smyf99lo8yieokggs25f0alftj28p&rid=200w.gif&ct=g)
 
 <h1 align="center">Hi🙋‍♀️,This is Rahama Trisha.</h1>
 <h3 align="center">I am interested in software testing and how it works. Love to generate new ideas for software testing.</h3>
