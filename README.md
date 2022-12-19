@@ -1,5 +1,5 @@
 
-![github_cover_banner](https://64.media.tumblr.com/c5543874b9cbe98da1d20945a45e989b/tumblr_o5a5r9Z9O71tvppquo1_r1_1280.gifv)
+![github_cover_banner](https://media1.giphy.com/media/WQqYj9ToV10g49Ma1h/giphy.gif?cid=6c09b952c6ef035cad6080c1d4b3d0809aac8645f0c0acc9&rid=giphy.gif&ct=g)
 
 <h1 align="center">Hi🙋‍♀️,This is Rahama Trisha.</h1>
 <h3 align="center">I am interested in software testing and how it works. Love to generate new ideas for software testing.</h3>
