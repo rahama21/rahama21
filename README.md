@@ -1,5 +1,5 @@
 
-![github_cover_banner](https://media0.giphy.com/media/mfJplFQI0vabe9FzGV/giphy.gif?cid=6c09b9520404777b186508605bac730d23baa9f705e13705&rid=giphy.gif&ct=g)
+![github_cover_banner](https://cutewallpaper.org/cdn-cgi/mirage/dd19f2d06ebc24f541f142b37b4289ffa7de722a7607e39984c5c6dd4ce8defd/1280/24/educational-gifs/32-educational-gif39s-ideas-cool-gifs-gif-online-tutoring.gif)
 
 <h1 align="center">Hi🙋‍♀️,This is Rahama Trisha.</h1>
 <h3 align="center">I am interested in software testing and how it works. Love to generate new ideas for software testing.</h3>
