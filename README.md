@@ -1,5 +1,5 @@
 
-![github_cover_banner](https://cdn.dribbble.com/users/1261045/screenshots/11391612/hello-welcome.gif)
+
 
 <h1 align="center">Hi🙋‍♀️,This is Rahama Trisha.</h1>
 <h3 align="center">I am interested in software testing and how it works. Love to generate new ideas for software testing.</h3>
